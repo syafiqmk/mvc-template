@@ -1,7 +1,7 @@
 <?php 
 
-    //base url
-    define("BASE_URL", "http://localhost/mvc-template/public");
+    //base url ex: http://localhost/application-folder/public
+    define("BASE_URL", "");
 
     //const database
     define("DB_HOST", "");
